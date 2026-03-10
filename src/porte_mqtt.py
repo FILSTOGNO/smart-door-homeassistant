@@ -14,7 +14,7 @@ from gpiozero import Device
 Device.pin_factory = PiGPIOFactory()
 
 # ─── Configuration MQTT ──────────────────────────────────────────────
-MQTT_BROKER = "100.82.59.116"  # IP Tailscale du serveur
+MQTT_BROKER = "100.x.x.x"  # IP Tailscale du serveur
 MQTT_PORT = 1883
 
 # Topics MQTT
