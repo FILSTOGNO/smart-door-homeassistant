@@ -1,0 +1,5 @@
+paho-mqtt==2.1.0
+gpiozero==2.0.1
+pigpio==1.78
+RPi.GPIO==0.7.1
+smbus2==0.4.3
